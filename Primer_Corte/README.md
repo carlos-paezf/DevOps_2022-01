@@ -11,3 +11,4 @@
 | Crear y publicar nuestra imagen en Docker Hub | [P1T5_Crear_Nuestra_Imagen](P1T5_Crear_Nuestra_Imagen/README.md)                                           |
 | Repaso de publicación de una imagen en Docker Hub | [P1T6_Website_Imagen_DockerHub](P1T6_Website_Imagen_DockerHub/README.md) |
 | MySQL | [P1T7_MySQL](P1T7_MySQL/README.md) |
+| PostgreSQL y PgAdmin | [P1T8_PostgreSQL_PGAdmin](P1T8_PostgreSQL_PGAdmin/README.md) |

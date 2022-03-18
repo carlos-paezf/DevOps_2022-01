@@ -12,3 +12,4 @@
 | Repaso de publicación de una imagen en Docker Hub | [P1T6_Website_Imagen_DockerHub](P1T6_Website_Imagen_DockerHub/README.md) |
 | MySQL | [P1T7_MySQL](P1T7_MySQL/README.md) |
 | PostgreSQL y PgAdmin | [P1T8_PostgreSQL_PGAdmin](P1T8_PostgreSQL_PGAdmin/README.md) |
+| Uso de NodeJS y MariaDB dentro de Docker | [P1T9_Node_MariaDB](P1T9_Node_MariaDB/README.md) |

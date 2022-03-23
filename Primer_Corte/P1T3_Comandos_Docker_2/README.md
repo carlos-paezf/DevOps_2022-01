@@ -1,8 +1,10 @@
 # Más comandos de Docker
 
 > Guía diseñada por: ***Carlos David Páez Ferreira***
+>
 > Guía liderada por: ***Harvey Nicolás Echavarria Ortiz***
-> Fecha: 01 Marzo 2022
+>
+> Fecha: ***01 Marzo 2022***
 
 ## Correr contenedores en segundo plano de HTTPD
 

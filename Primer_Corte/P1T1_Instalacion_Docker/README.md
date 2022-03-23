@@ -1,5 +1,11 @@
 # Instalación de Docker
 
+> Guía elaborada por: ***Carlos David Páez Ferreira***
+>
+> Guía Liderada por: ***Harvey Nicolás Echavarria Ortiz***
+>
+> Fecha: ***22 Febrero 2022***
+
 ## Actualización de paquetes
 
 ```txt

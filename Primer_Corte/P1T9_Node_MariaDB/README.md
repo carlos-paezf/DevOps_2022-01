@@ -1,5 +1,11 @@
 # Node y Maria DB
 
+> Guía elaborada por: ***Carlos David Páez Ferreira***
+>
+> Guía Liderada por: ***Harvey Nicolás Echavarria Ortiz***
+>
+> Fecha: ***17 Marzo 2022***
+
 ## Verificar las instalaciones de Docker y Node
 
 ```txt

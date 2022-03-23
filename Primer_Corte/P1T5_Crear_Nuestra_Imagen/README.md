@@ -1,5 +1,11 @@
 # Crear una imagen propia y subirla a Docker Hub
 
+> Guía elaborada por: ***Carlos David Páez Ferreira***
+>
+> Guía Liderada por: ***Harvey Nicolás Echavarria Ortiz***
+>
+> Fecha: ***08 Marzo 2022***
+
 ## Retomando el proyecto de la sección anterior
 
 ### Detener contenedores pasados

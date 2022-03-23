@@ -1,5 +1,11 @@
 # Repaso Comandos Docker
 
+> Guía elaborada por: ***Carlos David Páez Ferreira***
+>
+> Guía Liderada por: ***Harvey Nicolás Echavarria Ortiz***
+>
+> Fecha: ***24 Febrero 2022***
+
 ## Listar las imágenes
 
 ```txt

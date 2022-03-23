@@ -1,5 +1,11 @@
 # Subir una WebSite más compleja como imagen a DockerHub
 
+> Guía elaborada por: ***Carlos David Páez Ferreira***
+>
+> Guía Liderada por: ***Harvey Nicolás Echavarria Ortiz***
+>
+> Fecha: ***08 Marzo 2022***
+
 ## Crear un proyecto
 
 Creamos un nuevo proyecto en el que tendremos algún archivos de html y de css. También podemos implementar Bootstrap dentro de nuestra página web.

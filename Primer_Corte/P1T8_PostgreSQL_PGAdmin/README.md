@@ -1,5 +1,11 @@
 # PostgreSQL y PGAdmin
 
+> Guía elaborada por: ***Carlos David Páez Ferreira***
+>
+> Guía Liderada por: ***Harvey Nicolás Echavarria Ortiz***
+>
+> Fecha: ***17 Marzo 2022***
+
 En Windows podemos instalar Docker Desktop, el cual incluye Docker Compose.
 
 ![v](doc/03.png)

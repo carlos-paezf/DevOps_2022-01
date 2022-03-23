@@ -1,7 +1,9 @@
 # Operaciones con Imágenes - Subir un proyecto a un contenedor de NGINX en Docker
 
 > Guía diseñada por: ***Carlos David Páez Ferreira***
+>
 > Guía liderada por: ***Harvey Nicolás Echavarria Ortiz***
+>
 > Fecha: ***03 de Marzo de 2022***
 
 ## `--format`

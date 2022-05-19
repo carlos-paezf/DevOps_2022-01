@@ -352,7 +352,7 @@ Volvemos a intentar correr nuestra aplicación dentro del navegador, y recibirem
 
 ![43](doc/43.png)
 
-## Aparatado 2: Kubernetes
+## Apartado 2: Kubernetes
 
 ### Paso 1: Tutorial Interactivo Minikube
 

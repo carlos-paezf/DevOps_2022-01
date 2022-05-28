@@ -1,6 +1,6 @@
 # Guía Final de Tercer Corte
 
-> Guía elaborada por: ***Carlos David Páez Ferreira***
+> Guía elaborada por: ***Carlos David Páez Ferreira*** y ***Juana Valentina Mendoza Santamaría***
 >
 > Guía Liderada por: ***Harvey Nicolás Echavarria Ortiz***
 >
